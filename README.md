@@ -8,3 +8,6 @@
 
 ## 음악 MBTI 게임
 ![Image](https://github.com/user-attachments/assets/9dc115c9-3dc1-4516-b0b4-71cf3904445a)
+
+## 곡 상세페이지
+![Image](https://github.com/user-attachments/assets/af9ed33e-f721-4c27-9192-d43a82605721)
