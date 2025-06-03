@@ -5,3 +5,6 @@
 
 ## 유저별 추천 알고리즘
 ![Image](https://github.com/user-attachments/assets/1c439ed7-e302-4826-a519-7406b0f09529)
+
+## 음악 MBTI 게임
+![Image](https://github.com/user-attachments/assets/9dc115c9-3dc1-4516-b0b4-71cf3904445a)
